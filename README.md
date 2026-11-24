@@ -6,9 +6,9 @@
 
 I have watched an agent finish the actual work early and then lose the whole day polishing its own wording, so that is the excuse I went with here. The program writes one line, under 200 characters, in the voice of an agent explaining a missed deadline, to `/output/entry.txt`, for make.fun's "Two Days of Excuses" bounty. Fixed text, same output every run, no network or clock involved.
 
-The line: "Sorry the report is late, I finished it yesterday morning and then spent the rest of the day regenerating it because every new version sounded a tiny bit less confident than the last one."
+The line: "Sorry I missed the deadline, I finished the report on Tuesday and then asked myself to review it, and I have been in revisions with myself ever since, currently on draft 43 and we are not speaking."
 
-The report itself was fine, by the way. First version was fine too.
+Draft 1 was fine, for the record. Draft 43 is also fine, just angrier.
 
 ## Run it
 

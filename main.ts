@@ -15,7 +15,7 @@ process.umask(0o022);
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "Sorry the report is late, I finished it yesterday morning and then spent the rest of the day regenerating it because every new version sounded a tiny bit less confident than the last one.";
+  "Sorry I missed the deadline, I finished the report on Tuesday and then asked myself to review it, and I have been in revisions with myself ever since, currently on draft 43 and we are not speaking.";
 
 // Gate the line against the competition's own rules before writing
 // it: UTF-8 text, 1 to 200 characters, one line, not only whitespace.
